@@ -55,11 +55,6 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-## 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/shruti701)
-
-
 ## 📈 Current Learning Journey
 
 ✅ Python
@@ -92,7 +87,7 @@ Prediction model using Scikit-Learn.
 ## 🌐 Connect With Me
 
 LinkedIn:
-linkedin.com/in/shruti-babar-99aa8b315
+https://www.linkedin.com/in/shruti-babar-99aa8b315/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjmPDDTbxSKqLRInIUD%2BPuQ%3D%3D
 
 GitHub:
 https://github.com/shruti701
