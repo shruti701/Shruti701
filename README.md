@@ -1,7 +1,3 @@
-👋 Hi, I’m Shruti Babar!!!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-🎓 I’m a 3rd Year B.Tech Student in Artificial Intelligence & Data Science|
- Passionate about Machine Learning, Python, Web Development, and AI tools|
- Currently learning: Deep Learning, LLMs, and GitHub
-🚀 I believe in learning by building real-world projects and solving practical problems
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
