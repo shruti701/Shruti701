@@ -26,7 +26,7 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 
 🚀 Building projects and improving problem-solving skills
 
-📫 Reach me:shrutibabar50@gmail.com
+📫 Reach me : shrutibabar50@gmail.com
 
 ---
 
@@ -87,7 +87,7 @@ Prediction model using Scikit-Learn.
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/shruti-babar-99aa8b315/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjmPDDTbxSKqLRInIUD%2BPuQ%3D%3D
+https://www.linkedin.com/in/shruti-babar-99aa8b315/
 
 GitHub:
 https://github.com/shruti701
