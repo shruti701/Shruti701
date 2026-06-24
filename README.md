@@ -62,7 +62,7 @@ your-shrutibabar50@gmail.com
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
----
+
 
 ## 📈 Current Learning Journey
 
@@ -96,10 +96,10 @@ Prediction model using Scikit-Learn.
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
-
+linkedin.com/in/shruti-babar-99aa8b315
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/shruti701
+
 
 ---
 
