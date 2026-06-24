@@ -8,9 +8,11 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year B.Tech Student in Artificial Intelligence & Data Science
-
-📊 Passionate about Data Analytics and Data Visualization
+- 🎓 I am a final year B.Tech student in Artificial Intelligence and Data Science.  
+- 📊 I am passionate about Data Analytics and Data Science.  
+- 💡 I enjoy working with data to discover insights and solve real-world problems.  
+- 💻 I am continuously improving my skills in programming and data analysis.  
+- 🚀 I love learning new technologies and building small projects.  n
 
 💻 Currently Learning:
 - Python
@@ -25,7 +27,7 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 🚀 Building projects and improving problem-solving skills
 
 📫 Reach me:
-your-email@example.com
+your-shrutibabar50@gmail.com
 
 ---
 
@@ -54,15 +56,6 @@ your-email@example.com
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
 ---
 
 ## 🔥 GitHub Streak
