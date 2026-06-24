@@ -12,7 +12,7 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 - 📊 I am passionate about Data Analytics and Data Science.  
 - 💡 I enjoy working with data to discover insights and solve real-world problems.  
 - 💻 I am continuously improving my skills in programming and data analysis.  
-- 🚀 I love learning new technologies and building small projects.  n
+- 🚀 I love learning new technologies and building small projects.  
 
 💻 Currently Learning:
 - Python
@@ -26,8 +26,7 @@ B.Tech (AI & DS) Student | Aspiring Data Analyst
 
 🚀 Building projects and improving problem-solving skills
 
-📫 Reach me:
-your-shrutibabar50@gmail.com
+📫 Reach me:shrutibabar50@gmail.com
 
 ---
 
@@ -49,19 +48,16 @@ your-shrutibabar50@gmail.com
 - VS Code
 - Jupyter Notebook
 
----
 
 ## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
----
 
 ## 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/shruti701)
 
 
 ## 📈 Current Learning Journey
@@ -97,10 +93,8 @@ Prediction model using Scikit-Learn.
 
 LinkedIn:
 linkedin.com/in/shruti-babar-99aa8b315
+
 GitHub:
 https://github.com/shruti701
 
 
----
-
-⭐ "Learning by Building and Growing Every Day."
